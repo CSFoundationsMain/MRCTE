@@ -10,7 +10,7 @@
      - Select your own font(s)
      - Update your Projects page to include project cards for all FOUR of your projects to this point.
      - Structure and style the "About Me" page in a creative and professional manner.  ["How to write an About Me Page in your online portfolio"](https://www.makeuseof.com/how-to-write-about-me-page-online-portfolio/)
-     - Your images and pdf files  should be stored in the "assets" folder. The Aladdin image from the walk-through is here simply to establish the folder and is NOT to be used in this project.
+     - Your images and pdf files  should be stored in the "assets" folder.
      - Adhere to any and all copyright concerns
      - Add one HTML or CSS feature that we have yet to use in our projects to date.
      - Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) or [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
