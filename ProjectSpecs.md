@@ -3,15 +3,16 @@
 ## Creativity
  - The primary purpose of a "freelance" project is to take what you have learned in the related walkthrough and make it your own.
  - In this project you are asked to do the following:
-     - Adapt your own "theme" to this image gallery.  Hawaii was the theme adapted in the walk-through.
-     - Maintain the identical structure from the ImageGallery walk-through project as stated in General Specifications below
+     - Use the Aladdin student portfolio walk-through as a model to create YOUR own "professional" student portfolio.
+     - "Professional" means that you would be able to present this student portfolio to an employer or University to demonstrate your work. 
+     - Maintain the identical structure from the Aladdin student portfolio walk-through project as stated in General Specifications below.
      - Select your own colors / color palette
      - Select your own font(s)
-     - Include a minimum of nine images that directly relate to your theme.
-     - Your images should be stored in the "assets" folder.  The turtle image from the walkthrough is here simply to establish the folder and is NOT to be        used in this project
+     - Update your Projects page to include project cards for all FOUR of your projects to this point.
+     - Structure and style the "About Me" page in a creative and professional manner.
+     - Your images and pdf files  should be stored in the "assets" folder. The Aladdin image from the walk-through is here simply to establish the folder and is NOT to be used in this project.
      - Adhere to any and all copyright concerns
-     - If you own the images, your "cardText" class can be used for an image caption and description
-     - Add one additional CSS image feature when the user "hovers" their cursor over a photo
+     - Add one HTML or CSS feature that we have yet to use in our projects to date.
      - Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) or [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
  - This project will be published on the internet using GitHub pages (as demonstrated in the walk-through) and thus should be appropriate for public viewing and your educational institution's representation
 
