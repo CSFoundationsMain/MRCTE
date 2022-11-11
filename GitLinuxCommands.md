@@ -5,7 +5,7 @@
 
 ### how to push your code from AWS Cloud9 to GitHub repo
   1. **cd** (change directory) **projectFolderName-yourGitHubUsername**
-     * the git commands MUST be run from the relevent project folder on the CLI (terminal)
+     * the git commands MUST be run from the relevant project folder on the CLI (terminal)
      * recall the auto fill feature using the Tab key 
   2. **git status**
   3. **git add -A**   (adds all files that haven't been updated into staging phase)
