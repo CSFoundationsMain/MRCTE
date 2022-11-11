@@ -45,7 +45,7 @@
  - This project is meant to be completed during scheduled class time only - working "bell to bell"
  - Classroom time is utlized and maximized solely for this project without any unrelated distractions (phone as an example)
  - Technically, development is NEVER complete.  If you find yourself "finished", continue looking for enhancements to your project to meet the "bell to bell" requirement
- - Work done outside of class should be done only on a minimal, as needed basis (class absence as an example)
+ - Work done outside of class should be done only on a minimum, as needed basis (class absence as an example)
  - Instructor assistance is sought when appropriate to avoid overextending time
 
 
