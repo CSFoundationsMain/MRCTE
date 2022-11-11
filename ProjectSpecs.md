@@ -5,7 +5,7 @@
  - In this project you are asked to do the following:
      - Use the Aladdin student portfolio walk-through as a model to create YOUR own "professional" student portfolio.
      - "Professional" means that you would be able to present this student portfolio to an employer or higher education organization to demonstrate your CS skills. 
-     - Maintain the identical structure from the Aladdin student portfolio walk-through project as stated in General Specifications below.
+     - Maintain the structure from the Aladdin student portfolio walk-through project as stated in General Specifications below.
      - Select your own colors / color palette
      - Select your own font(s)
      - Update your Projects page to include project cards for all FOUR of your projects to this point.
