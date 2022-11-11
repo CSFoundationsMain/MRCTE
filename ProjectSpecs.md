@@ -4,7 +4,7 @@
  - The primary purpose of a "freelance" project is to take what you have learned in the related walk-through and make it your own.
  - In this project you are asked to do the following:
      - Use the Aladdin student portfolio walk-through as a model to create YOUR own "professional" student portfolio.
-     - "Professional" means that you would be able to present this student portfolio to an employer or University to present and demonstrate your CS work. 
+     - "Professional" means that you would be able to present this student portfolio to an employer or higher educational organization to present and demonstrate your CS work. 
      - Maintain the identical structure from the Aladdin student portfolio walk-through project as stated in General Specifications below.
      - Select your own colors / color palette
      - Select your own font(s)
