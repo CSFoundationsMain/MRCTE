@@ -37,7 +37,7 @@
  - Your project folder must reside directly off the root directory of your AWS IDE
  - This repo must be cloned to, and all work done on your AWS Cloud9 IDE
  - Your work should be recorded with frequent git commits including clear and appropriate descriptive messages
- - Your work should be frequently pushed to your remote GitHub Repo
+ - Your work should be frequently pushed to your remote GitHub Repo - especially at the end of each class.
  - Once completed your final commit message must say "Submit for Grading"
 
 
